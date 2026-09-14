@@ -144,8 +144,3 @@ Let us build financial models that are not just statistically significant, but a
 
 *References:*  
 [[10]] Equity Axis (2026). "Five Years of Growth, Limited Job Gains: World Bank Flags Zimbabwe’s Productivity Gap". Retrieved from equityaxis.net.
-
-### 🌟 Tips for Your VBA/R Master Notebook:
-- **Knit to HTML**: The `cosmo` theme and `tango` highlighting will make the output look incredibly sleek and professional.
-- **VBA Integration Idea**: You can add a chunk later showing how you might use the `RDCOMClient` package in R to talk to Excel, or simply document the VBA scripts you've written to automate similar data cleaning tasks, bridging your R analytics with your VBA skills! 
-- Let me know if you want to add any specific VBA code snippets to this `.Rmd` file to further showcase your self-taught journey!
