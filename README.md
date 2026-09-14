@@ -95,27 +95,21 @@ And why did the VBA macro join it?
 
 ---
 
-## 🙏 Acknowledgments & Inspiration
+## 🙏 Acknowledgments and Inspiration
 
-- **Equity Axis & World Bank**: For the foundational 2026 data on Zimbabwe's growth, job gains, and the 156,664+ POS terminal network.
+- **Equity Axis and World Bank**: For the foundational 2026 data on Zimbabwe's growth, job gains, and the 156,664+ POS terminal network.
 - **The Zimbabwean People**: For unmatched resilience, humor, and the ability to keep the economy moving with love and grace.
-- **The R & VBA Community**: For the endless Stack Overflow threads that guided this self-taught journey. 
+- **The R and VBA Community**: For the endless Stack Overflow threads that guided this self-taught journey. 
 - **The Universe**: For providing the data, the logic, and the good vibes.
 
 ---
 
 ## 📬 Contact & Connect
 
-If you'd like to discuss cosmic accounting, share a VBA tip, or just spread some good vibes, reach out! 
+If you would like to discuss cosmic accounting, share a VBA tip, or just spread some good vibes, reach out! 
 
-- **GitHub**: [Your GitHub Profile]
-- **LinkedIn**: [Your LinkedIn Profile]
+- **GitHub**: [ElishaVeriwa]()
+- **LinkedIn**: [Elisha Veriwa]()
 - **Cosmic Frequency**: Tuned to 432 Hz (the frequency of balanced ledgers)
 
 *Made with 💖, ☮️, 😊, and a lot of `Ctrl + C`, `Ctrl + V` (and eventual understanding).* 🇿🇼🚀
-```
-
-### 💡 Tips for Your Portfolio:
-1. **Customize the Links**: Replace `[Your GitHub Profile]` and `[Your LinkedIn Profile]` with your actual links.
-2. **Add a Screenshot**: Once you knit the `.Rmd` to HTML, take a nice screenshot of the output (especially the colorful ggplot charts) and add it to the README under the "About This Project" section using `![Cosmic Analytics Output](path/to/screenshot.png)`. Visuals make READMEs pop!
-3. **VBA Folder**: If you have actual VBA code that complements this (e.g., a script that formats an Excel export of this R data), create the `vba_macros/` folder and add it. It perfectly proves the "self-taught VBA master" claim in your memory!
